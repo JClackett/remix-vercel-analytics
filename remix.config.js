@@ -10,5 +10,4 @@ module.exports = {
   },
   serverDependenciesToBundle: [/@vercel\/analytics/],
   tailwind: true,
-  postcss: true,
 };
